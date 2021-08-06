@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name apex)(type Legacy)(uri ${KIPRJMOD}/symbols/apex.lib)(options "")(descr ""))
+)
